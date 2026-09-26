@@ -1,1 +1,1 @@
-qinglong v2.21.0
+qinglong v2.22.0
