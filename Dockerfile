@@ -1,4 +1,4 @@
-FROM ghcr.io/whyour/qinglong:2.21.0-debian
+FROM ghcr.io/whyour/qinglong:2.22.0-debian
 
 
 LABEL maintainer="winijesen"
